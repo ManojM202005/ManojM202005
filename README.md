@@ -9,6 +9,7 @@ I'm a final year Aeronautical Engineering student at Kumaraguru College of Techn
 🚀 Propulsion & Rocketry – from sounding rockets to spacecraft systems
 🛩️ Aerospace Vehicle Design – airfoils, wings, and structural analysis
 🛰️ Space Systems – orbital mechanics and mission planning
+
 🛠️ Technical Skills
 
 
@@ -36,6 +37,7 @@ CAD & Design
 �
 �
 �
+_______________________________________
 🚀 Featured Projects
 🦅 Bio-Inspired Golden Eagle Airfoil – CFD Analysis
 Designed a bio-inspired airfoil modelled after the Golden Eagle wing geometry and analysed aerodynamic performance using ANSYS Fluent. Investigated lift, drag, and efficiency under varying Mach and AoA conditions.
@@ -45,6 +47,7 @@ Designed and 3D-printed a wing prototype, then evaluated structural integrity an
 End-to-end design of a sounding rocket with payload capability. Estimated thrust requirements, drag coefficient, stability margin (via OpenRocket), and recovery system sizing.
 ⚙️ MATLAB/Simulink – PMSM Motor & Stewart Platform Modelling
 Developed dynamic models for a Permanent Magnet Synchronous Motor and performed kinematic motion analysis of a 6-DOF Stewart Platform in Simulink.
+_______________________________________
 💼 Experience
 Role
 Organisation
@@ -58,6 +61,7 @@ Jul 2025
 Space Systems Intern
 Agnirva Space
 Jan 2025 – Mar 2025
+_______________________________________
 🏆 Achievements
 🥈 Silver Honour – International Astronomy & Astrophysics Competition (IAAC) 2024 & 2025
 🏅 Certified SOLIDWORKS Professional (CSWP)
@@ -67,6 +71,7 @@ Jan 2025 – Mar 2025
 🤝 Leadership & Community
 🛰️ Secretary – SEDS Kumaraguru (Students for the Exploration and Development of Space)
 🌐 IAAC Ambassador – Promoting astronomy education
+_______________________________________
 📊 GitHub Stats
 �
 �
